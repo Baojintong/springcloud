@@ -9,6 +9,8 @@
         <module name="client" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="feign-consumer" />
+        <module name="hello-service-api" />
         <module name="ribbon" />
         <module name="server" />
       </profile>
@@ -17,6 +19,8 @@
       <module name="client" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="hello-service-api" target="1.8" />
       <module name="ribbon" target="1.8" />
       <module name="server" target="1.8" />
     </bytecodeTargetLevel>
