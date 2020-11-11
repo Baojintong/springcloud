@@ -1,0 +1,7 @@
+#spring.application.name=eureka
+#spring.cloud.config.profile=dev
+#spring.cloud.config.label=master
+#spring.cloud.config.uri=http://127.0.0.1:7001/
+#management.endpoints.web.exposure.include=refresh
+#management.endpoints.web.base-path=/
+spring.cloud.config= false
